@@ -58,7 +58,7 @@ Their hard work, passion, and collaborative efforts have been crucial in bringin
 
 ## Contributing
 
-Contributions to enhance the Sign2Text web app are most welcome. Please review the contribution guidelines in the repository for more details.
+Contributions to enhance the Sign2Text web app are most welcome. Please reach out us for more details.
 
 ## License
 
