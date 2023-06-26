@@ -25,19 +25,37 @@ To run the Sign2Text web app locally:
 The Sign2Text web app achieves high accuracy in recognizing hand gestures, providing reliable translations of sign language. Extensive performance optimizations ensure real-time processing and a smooth user experience.
 ## Pictures 
 
-![Slide 1](static/Screenshot 2023-06-01 171209.png)
-
+<!-- Slide 1 -->
+![Slide 1](slideshow/slide1.png)
 <!-- Add any necessary text or description for slide 1 -->
 
-![Slide 1](static/Screenshot 2023-06-01 171340.png)
-
+<!-- Slide 2 -->
+![Slide 2](slideshow/slide2.png)
 <!-- Add any necessary text or description for slide 2 -->
 
-![Slide 1](static/Screenshot 2023-06-01 171418.png)
-
+<!-- Slide 3 -->
+![Slide 3](slideshow/slide3.png)
 <!-- Add any necessary text or description for slide 3 -->
 
-<!-- Add more slides as needed -->
+<!-- Slide 4 -->
+![Slide 4](slideshow/slide4.png)
+<!-- Add any necessary text or description for slide 4 -->
+
+<!-- Slide 5 -->
+![Slide 5](slideshow/slide5.png)
+<!-- Add any necessary text or description for slide 5 -->
+
+<!-- Slide 6 -->
+![Slide 6](slideshow/slide6.png)
+<!-- Add any necessary text or description for slide 6 -->
+
+<!-- Slide 7 -->
+![Slide 7](slideshow/slide7.png)
+<!-- Add any necessary text or description for slide 7 -->
+
+<!-- Slide 8 -->
+![Slide 8](slideshow/slide8.png)
+<!-- Add any necessary text or description for slide 8 -->
 
 ## Acknowledgments
 
